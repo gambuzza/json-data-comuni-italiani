@@ -1,0 +1,645 @@
+[
+    {
+      "country_id": 1,
+      "id": 1,
+      "name": "Torino",
+      "abb": "TO"
+    },
+    {
+      "country_id": 1,
+      "id": 2,
+      "name": "Vercelli",
+      "abb": "VC"
+    },
+    {
+      "country_id": 1,
+      "id": 3,
+      "name": "Novara",
+      "abb": "NO"
+    },
+    {
+      "country_id": 1,
+      "id": 4,
+      "name": "Cuneo",
+      "abb": "CN"
+    },
+    {
+      "country_id": 1,
+      "id": 5,
+      "name": "Asti",
+      "abb": "AT"
+    },
+    {
+      "country_id": 1,
+      "id": 6,
+      "name": "Alessandria",
+      "abb": "AL"
+    },
+    {
+      "country_id": 1,
+      "id": 96,
+      "name": "Biella",
+      "abb": "BI"
+    },
+    {
+      "country_id": 1,
+      "id": 103,
+      "name": "Verbano-Cusio-Ossola",
+      "abb": "VB"
+    },
+    {
+      "country_id": 2,
+      "id": 7,
+      "name": "Valle d'Aosta",
+      "abb": "AO"
+    },
+    {
+      "country_id": 3,
+      "id": 12,
+      "name": "Varese",
+      "abb": "VA"
+    },
+    {
+      "country_id": 3,
+      "id": 13,
+      "name": "Como",
+      "abb": "CO"
+    },
+    {
+      "country_id": 3,
+      "id": 14,
+      "name": "Sondrio",
+      "abb": "SO"
+    },
+    {
+      "country_id": 3,
+      "id": 15,
+      "name": "Milano",
+      "abb": "MI"
+    },
+    {
+      "country_id": 3,
+      "id": 16,
+      "name": "Bergamo",
+      "abb": "BG"
+    },
+    {
+      "country_id": 3,
+      "id": 17,
+      "name": "Brescia",
+      "abb": "BS"
+    },
+    {
+      "country_id": 3,
+      "id": 18,
+      "name": "Pavia",
+      "abb": "PV"
+    },
+    {
+      "country_id": 3,
+      "id": 19,
+      "name": "Cremona",
+      "abb": "CR"
+    },
+    {
+      "country_id": 3,
+      "id": 20,
+      "name": "Mantova",
+      "abb": "MN"
+    },
+    {
+      "country_id": 3,
+      "id": 97,
+      "name": "Lecco",
+      "abb": "LC"
+    },
+    {
+      "country_id": 3,
+      "id": 98,
+      "name": "Lodi",
+      "abb": "LO"
+    },
+    {
+      "country_id": 3,
+      "id": 108,
+      "name": "Monza e della Brianza",
+      "abb": "MB"
+    },
+    {
+      "country_id": 4,
+      "id": 21,
+      "name": "Bolzano/Bozen",
+      "abb": "BZ"
+    },
+    {
+      "country_id": 4,
+      "id": 22,
+      "name": "Trento",
+      "abb": "TN"
+    },
+    {
+      "country_id": 5,
+      "id": 23,
+      "name": "Verona",
+      "abb": "VR"
+    },
+    {
+      "country_id": 5,
+      "id": 24,
+      "name": "Vicenza",
+      "abb": "VI"
+    },
+    {
+      "country_id": 5,
+      "id": 25,
+      "name": "Belluno",
+      "abb": "BL"
+    },
+    {
+      "country_id": 5,
+      "id": 26,
+      "name": "Treviso",
+      "abb": "TV"
+    },
+    {
+      "country_id": 5,
+      "id": 27,
+      "name": "Venezia",
+      "abb": "VE"
+    },
+    {
+      "country_id": 5,
+      "id": 28,
+      "name": "Padova",
+      "abb": "PD"
+    },
+    {
+      "country_id": 5,
+      "id": 29,
+      "name": "Rovigo",
+      "abb": "RO"
+    },
+    {
+      "country_id": 6,
+      "id": 30,
+      "name": "Udine",
+      "abb": "UD"
+    },
+    {
+      "country_id": 6,
+      "id": 31,
+      "name": "Gorizia",
+      "abb": "GO"
+    },
+    {
+      "country_id": 6,
+      "id": 32,
+      "name": "Trieste",
+      "abb": "TS"
+    },
+    {
+      "country_id": 6,
+      "id": 93,
+      "name": "Pordenone",
+      "abb": "PN"
+    },
+    {
+      "country_id": 7,
+      "id": 10,
+      "name": "Genova",
+      "abb": "GE"
+    },
+    {
+      "country_id": 7,
+      "id": 11,
+      "name": "La Spezia",
+      "abb": "SP"
+    },
+    {
+      "country_id": 7,
+      "id": 8,
+      "name": "Imperia",
+      "abb": "IM"
+    },
+    {
+      "country_id": 7,
+      "id": 9,
+      "name": "Savona",
+      "abb": "SV"
+    },
+    {
+      "country_id": 8,
+      "id": 33,
+      "name": "Piacenza",
+      "abb": "PC"
+    },
+    {
+      "country_id": 8,
+      "id": 34,
+      "name": "Parma",
+      "abb": "PR"
+    },
+    {
+      "country_id": 8,
+      "id": 35,
+      "name": "Reggio nell'Emilia",
+      "abb": "RE"
+    },
+    {
+      "country_id": 8,
+      "id": 36,
+      "name": "Modena",
+      "abb": "MO"
+    },
+    {
+      "country_id": 8,
+      "id": 37,
+      "name": "Bologna",
+      "abb": "BO"
+    },
+    {
+      "country_id": 8,
+      "id": 38,
+      "name": "Ferrara",
+      "abb": "FE"
+    },
+    {
+      "country_id": 8,
+      "id": 39,
+      "name": "Ravenna",
+      "abb": "RA"
+    },
+    {
+      "country_id": 8,
+      "id": 40,
+      "name": "Forlì-Cesena",
+      "abb": "FC"
+    },
+    {
+      "country_id": 8,
+      "id": 99,
+      "name": "Rimini",
+      "abb": "RN"
+    },
+    {
+      "country_id": 9,
+      "id": 100,
+      "name": "Prato",
+      "abb": "PO"
+    },
+    {
+      "country_id": 9,
+      "id": 45,
+      "name": "Massa-Carrara",
+      "abb": "MS"
+    },
+    {
+      "country_id": 9,
+      "id": 46,
+      "name": "Lucca",
+      "abb": "LU"
+    },
+    {
+      "country_id": 9,
+      "id": 47,
+      "name": "Pistoia",
+      "abb": "PT"
+    },
+    {
+      "country_id": 9,
+      "id": 48,
+      "name": "Firenze",
+      "abb": "FI"
+    },
+    {
+      "country_id": 9,
+      "id": 49,
+      "name": "Livorno",
+      "abb": "LI"
+    },
+    {
+      "country_id": 9,
+      "id": 50,
+      "name": "Pisa",
+      "abb": "PI"
+    },
+    {
+      "country_id": 9,
+      "id": 51,
+      "name": "Arezzo",
+      "abb": "AR"
+    },
+    {
+      "country_id": 9,
+      "id": 52,
+      "name": "Siena",
+      "abb": "SI"
+    },
+    {
+      "country_id": 9,
+      "id": 53,
+      "name": "Grosseto",
+      "abb": "GR"
+    },
+    {
+      "country_id": 10,
+      "id": 54,
+      "name": "Perugia",
+      "abb": "PG"
+    },
+    {
+      "country_id": 10,
+      "id": 55,
+      "name": "Terni",
+      "abb": "TR"
+    },
+    {
+      "country_id": 11,
+      "id": 109,
+      "name": "Fermo",
+      "abb": "FM"
+    },
+    {
+      "country_id": 11,
+      "id": 41,
+      "name": "Pesaro e Urbino",
+      "abb": "PU"
+    },
+    {
+      "country_id": 11,
+      "id": 42,
+      "name": "Ancona",
+      "abb": "AN"
+    },
+    {
+      "country_id": 11,
+      "id": 43,
+      "name": "Macerata",
+      "abb": "MC"
+    },
+    {
+      "country_id": 11,
+      "id": 44,
+      "name": "Ascoli Piceno",
+      "abb": "AP"
+    },
+    {
+      "country_id": 12,
+      "id": 56,
+      "name": "Viterbo",
+      "abb": "VT"
+    },
+    {
+      "country_id": 12,
+      "id": 57,
+      "name": "Rieti",
+      "abb": "RI"
+    },
+    {
+      "country_id": 12,
+      "id": 58,
+      "name": "Roma",
+      "abb": "RM"
+    },
+    {
+      "country_id": 12,
+      "id": 59,
+      "name": "Latina",
+      "abb": "LT"
+    },
+    {
+      "country_id": 12,
+      "id": 60,
+      "name": "Frosinone",
+      "abb": "FR"
+    },
+    {
+      "country_id": 13,
+      "id": 66,
+      "name": "L'Aquila",
+      "abb": "AQ"
+    },
+    {
+      "country_id": 13,
+      "id": 67,
+      "name": "Teramo",
+      "abb": "TE"
+    },
+    {
+      "country_id": 13,
+      "id": 68,
+      "name": "Pescara",
+      "abb": "PE"
+    },
+    {
+      "country_id": 13,
+      "id": 69,
+      "name": "Chieti",
+      "abb": "CH"
+    },
+    {
+      "country_id": 14,
+      "id": 70,
+      "name": "Campobasso",
+      "abb": "CB"
+    },
+    {
+      "country_id": 14,
+      "id": 94,
+      "name": "Isernia",
+      "abb": "IS"
+    },
+    {
+      "country_id": 15,
+      "id": 61,
+      "name": "Caserta",
+      "abb": "CE"
+    },
+    {
+      "country_id": 15,
+      "id": 62,
+      "name": "Benevento",
+      "abb": "BN"
+    },
+    {
+      "country_id": 15,
+      "id": 63,
+      "name": "Napoli",
+      "abb": "NA"
+    },
+    {
+      "country_id": 15,
+      "id": 64,
+      "name": "Avellino",
+      "abb": "AV"
+    },
+    {
+      "country_id": 15,
+      "id": 65,
+      "name": "Salerno",
+      "abb": "SA"
+    },
+    {
+      "country_id": 16,
+      "id": 110,
+      "name": "Barletta-Andria-Trani",
+      "abb": "BT"
+    },
+    {
+      "country_id": 16,
+      "id": 71,
+      "name": "Foggia",
+      "abb": "FG"
+    },
+    {
+      "country_id": 16,
+      "id": 72,
+      "name": "Bari",
+      "abb": "BA"
+    },
+    {
+      "country_id": 16,
+      "id": 73,
+      "name": "Taranto",
+      "abb": "TA"
+    },
+    {
+      "country_id": 16,
+      "id": 74,
+      "name": "Brindisi",
+      "abb": "BR"
+    },
+    {
+      "country_id": 16,
+      "id": 75,
+      "name": "Lecce",
+      "abb": "LE"
+    },
+    {
+      "country_id": 17,
+      "id": 76,
+      "name": "Potenza",
+      "abb": "PZ"
+    },
+    {
+      "country_id": 17,
+      "id": 77,
+      "name": "Matera",
+      "abb": "MT"
+    },
+    {
+      "country_id": 18,
+      "id": 101,
+      "name": "Crotone",
+      "abb": "KR"
+    },
+    {
+      "country_id": 18,
+      "id": 102,
+      "name": "Vibo Valentia",
+      "abb": "VV"
+    },
+    {
+      "country_id": 18,
+      "id": 78,
+      "name": "Cosenza",
+      "abb": "CS"
+    },
+    {
+      "country_id": 18,
+      "id": 79,
+      "name": "Catanzaro",
+      "abb": "CZ"
+    },
+    {
+      "country_id": 18,
+      "id": 80,
+      "name": "Reggio Calabria",
+      "abb": "RC"
+    },
+    {
+      "country_id": 19,
+      "id": 81,
+      "name": "Trapani",
+      "abb": "TP"
+    },
+    {
+      "country_id": 19,
+      "id": 82,
+      "name": "Palermo",
+      "abb": "PA"
+    },
+    {
+      "country_id": 19,
+      "id": 83,
+      "name": "Messina",
+      "abb": "ME"
+    },
+    {
+      "country_id": 19,
+      "id": 84,
+      "name": "Agrigento",
+      "abb": "AG"
+    },
+    {
+      "country_id": 19,
+      "id": 85,
+      "name": "Caltanissetta",
+      "abb": "CL"
+    },
+    {
+      "country_id": 19,
+      "id": 86,
+      "name": "Enna",
+      "abb": "EN"
+    },
+    {
+      "country_id": 19,
+      "id": 87,
+      "name": "Catania",
+      "abb": "CT"
+    },
+    {
+      "country_id": 19,
+      "id": 88,
+      "name": "Ragusa",
+      "abb": "RG"
+    },
+    {
+      "country_id": 19,
+      "id": 89,
+      "name": "Siracusa",
+      "abb": "SR"
+    },
+    {
+      "country_id": 20,
+      "id": 111,
+      "name": "Sud Sardegna",
+      "abb": "SU"
+    },
+    {
+      "country_id": 20,
+      "id": 90,
+      "name": "Sassari",
+      "abb": "SS"
+    },
+    {
+      "country_id": 20,
+      "id": 91,
+      "name": "Nuoro",
+      "abb": "NU"
+    },
+    {
+      "country_id": 20,
+      "id": 92,
+      "name": "Cagliari",
+      "abb": "CA"
+    },
+    {
+      "country_id": 20,
+      "id": 95,
+      "name": "Oristano",
+      "abb": "OR"
+    }
+  ]
+  
