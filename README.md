@@ -3,7 +3,8 @@ Un elenco aggiornato al 16 Novembre 2021 in formato json di tutti i comuni itali
 I file comprendono soltanto i campi name e gli id per creare le relazioni con la provincia e la regione di appartenenza.
 
 [Fonte Istat](https://www.istat.it/it/archivio/6789)
-<span style="color:red">ATTENZIONE...</span> <p>Questo non è un file ufficiale ISTAT. E' stato realizzato solo a scopo didattico per creare databese relazionali. Non utilizzatelo in produzione!</p>
+
+ATTENZIONE! Questo non è un file ufficiale ISTAT. E' stato realizzato solo a scopo didattico per creare databese relazionali. Non utilizzatelo in produzione!
 
 Esempio di Codice
 
