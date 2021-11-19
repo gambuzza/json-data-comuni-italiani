@@ -4,7 +4,7 @@ I file comprendono soltanto i campi name e gli id per creare le relazioni con la
 
 [Fonte Istat](https://www.istat.it/it/archivio/6789)
 
-ATTENZIONE! Questo non è un file ufficiale ISTAT. E' stato realizzato solo a scopo didattico per creare databese relazionali. Non utilizzatelo in produzione!
+ATTENZIONE! Questo non è un file ufficiale ISTAT. E' stato realizzato solo a scopo didattico per creare database relazionali. Non utilizzatelo in produzione!
 
 Esempio di Codice
 
