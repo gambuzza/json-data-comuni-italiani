@@ -4,7 +4,9 @@ I file comprendono soltanto i campi name e gli id per creare le relazioni con la
 
 [Fonte Istat](https://www.istat.it/it/archivio/6789)
 
-![#f03c15](ATTENZIONE)
+```diff
+- ATTENZIONE
+```
 
 Esempio di Codice
 
