@@ -24,7 +24,11 @@ Esempio di Codice
     } 
  
 ```
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
