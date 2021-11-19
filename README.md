@@ -7,7 +7,7 @@ I file comprendono soltanto i campi name e gli id per creare le relazioni con la
 Esempio di Codice
 
 ```json
-[
+
     {
       "id": 1,
       "name": "Piemonte"
@@ -19,7 +19,7 @@ Esempio di Codice
     {
       "id": 3,
       "name": "Lombardia"
-    }
- ]
+    } 
+ 
 ```
 
