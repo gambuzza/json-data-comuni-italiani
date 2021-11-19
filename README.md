@@ -4,3 +4,22 @@ I file comprendono soltanto i campi name e gli id per creare le relazioni con la
 
 <a href="https://www.istat.it/it/archivio/6789">Fonte Istat</a>
 
+Esempio di Codice
+
+```json
+[
+    {
+      "id": 1,
+      "name": "Piemonte"
+    },
+    {
+      "id": 2,
+      "name": "Valle d'Aosta/Vallée d'Aoste"
+    },
+    {
+      "id": 3,
+      "name": "Lombardia"
+    }
+ ]
+```
+
