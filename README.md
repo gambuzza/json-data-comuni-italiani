@@ -4,7 +4,3 @@ I file comprendono soltanto i campi name e gli id per creare le relazioni con la
 
 <a href="https://www.istat.it/it/archivio/6789">Fonte Istat</a>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
